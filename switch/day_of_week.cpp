@@ -9,7 +9,7 @@ int main()
     {
         case 1:
         {
-            cout<<"1"<<" sunday";
+            cout<<" sunday";
             break;
         }
         case 2:

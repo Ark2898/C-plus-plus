@@ -1,4 +1,4 @@
-// WAP to check weather it is alphabet, digit, special character.
+// WAP to check whether it is alphabet, digit, special character.
 #include<iostream>
 using namespace std;
 int main()
